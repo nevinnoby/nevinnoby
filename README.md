@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Nevin M Noby and I'm a Computer Science Enthusiasist from Kerela</h2>
+<h1 align="center">Hi 👋, I'm Nevin M Noby</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ###
 
@@ -64,3 +65,21 @@
 <img src="https://raw.githubusercontent.com/nevinnoby/nevinnoby/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevinnoby" alt="nevinnoby" /></a> </p>
+
+- 🔭 I’m currently working on [Perimeter](not yet available public)
+
+- 👨‍💻 All of my projects are available at [https://nevinnoby.github.io/My_Portfolio/](https://nevinnoby.github.io/My_Portfolio/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nevin-m-noby-80058125a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nevin-m-noby-80058125a/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/nevinmadappallil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/nevinmadappallil" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/mz0uodfjuq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mz0uodfjuq/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@nevinmadappallil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nevinmadappallil" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nevinnoby&" alt="nevinnoby" /></p>
