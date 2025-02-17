@@ -1,5 +1,10 @@
+###########################################################################################################
+<img src="image.webp" alt="Cover Image" style="width: 100%; height: auto;">
+###########################################################################################################
+
 <h1 align="center">Hi 👋, I'm Nevin M Noby</h1>
-<h3 align="center">A passionate software developer from India</h3>
+
+
 
 ###
 
